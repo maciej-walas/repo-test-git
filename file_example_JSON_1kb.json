@@ -36,6 +36,10 @@
             "name": "Antigua and Barbuda",
             "isoCode": "AG"
         },
+		{
+            "name": "San Escobar",
+            "isoCode": "SEB"
+        },
         {
             "name": "Argentina",
             "isoCode": "AR"
