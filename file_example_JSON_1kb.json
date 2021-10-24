@@ -1,5 +1,8 @@
 {
     "countries": [
+		{	"name": "Narnia",
+            "isoCode": "NA"
+		}
         {
             "name": "Afghanistan",
             "isoCode": "AF"
